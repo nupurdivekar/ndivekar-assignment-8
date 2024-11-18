@@ -1,6 +1,6 @@
 Collaborator: Aarsh Mehta
 
-Link to Video: 
+Link to Video: https://youtu.be/gjCyCBXIoWk
 
 # Assignment 8: Logistic Regression
 
